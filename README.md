@@ -77,12 +77,9 @@ Estoy trabajando en un proyecto móvil para una empresa que combina rendimiento,
 
 Este proyecto no solo representa mi habilidad técnica, sino también mi compromiso con el detalle, la experiencia del usuario y la calidad del código.  
 
-
 ---
 
----
-
-### 🚀 Proyectos que me definen
+### 🚀 Proyecto 
 
 #### 🎶 Gestor Musical en Java  
 **Terminal · Java · JSON · XML**  
@@ -97,16 +94,32 @@ Ideal para usuarios que prefieren lo funcional y minimalista.
 
 ---
 
-#### 💋 Killer Kiss – Juego Social  
-**Java · Email · JSON**  
-Juego de eliminación por "beso" con asignación secreta de objetivos vía email.  
-Toda la lógica y persistencia se gestiona en JSON.
+### 🧠 Filosofía de desarrollo
 
-🖼️ **Capturas**:  
-<img src="https://github.com/user-attachments/assets/5dd10b3d-4e93-4c22-878b-cad7cb393c75" width="45%" style="border:1px solid #ddd">  
-<img src="https://github.com/user-attachments/assets/0856c668-3c26-4ff6-a2eb-8b0e2a18b8b7" width="45%" style="border:1px solid #ddd">
+Creo en escribir código que no solo funcione, sino que se entienda.  
+Me apasiona construir soluciones que resuelvan problemas reales, con una arquitectura limpia, escalable y mantenible.  
+Cada proyecto es una oportunidad para aprender, mejorar y dejar una huella.  
+Valoro el trabajo bien hecho, el detalle y la simplicidad que esconde complejidad.
 
-🔗 [Ver código →](https://github.com/Waffle639/Killer-Kiss)
+---
+
+### 🎯 Objetivos profesionales
+
+- Convertirme en referente en desarrollo móvil con React Native  
+- Participar en proyectos que tengan impacto social, educativo o tecnológico  
+- Aprender nuevas tecnologías como Flutter, Node.js y TypeScript  
+- Contribuir activamente en comunidades open source  
+- Crear herramientas que mejoren la vida de las personas
+
+---
+
+### 🧩 Habilidades personales
+
+- Comunicación clara y efectiva con equipos técnicos y no técnicos  
+- Liderazgo técnico y toma de decisiones en entornos colaborativos  
+- Resolución de problemas bajo presión y pensamiento crítico  
+- Mentalidad de mejora continua y aprendizaje constante  
+- Empatía, compromiso y pasión por lo que hago
 
 ---
 
