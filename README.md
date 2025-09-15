@@ -80,4 +80,4 @@ A social elimination game where each player receives by email the name of their 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Waffle639&show_icons=true&locale=en" alt="Waffle639" /></p>
 
 ### 🌐 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jofre-cuerda-santaul%C3%A0ria-39981133a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/david-hern%C3%A1ndez-zarco-2a4bb8345/)
