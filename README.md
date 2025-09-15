@@ -105,7 +105,7 @@ Valoro el trabajo bien hecho, el detalle y la simplicidad que esconde complejida
 
 ### 🎯 Objetivos profesionales
 
-- Convertirme en referente en desarrollo móvil con React Native  
+- Convertirme en referente en desarrollo móvil 
 - Participar en proyectos que tengan impacto social, educativo o tecnológico  
 - Aprender nuevas tecnologías como Flutter, Node.js y TypeScript  
 - Contribuir activamente en comunidades open source  
@@ -124,8 +124,6 @@ Valoro el trabajo bien hecho, el detalle y la simplicidad que esconde complejida
 ---
 
 ### 🌐 Contacto
-
-¿Quieres colaborar, charlar o compartir ideas?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/david-hern%C3%A1ndez-zarco-2a4bb8345/">
