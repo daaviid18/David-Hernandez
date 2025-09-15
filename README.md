@@ -131,3 +131,8 @@ Valoro el trabajo bien hecho, el detalle y la simplicidad que esconde complejida
   </a>
 </p>
 
+📧 **Correo**: david.hernandez.zarco@gmail.com 
+📱 **Teléfono**: +34 679 87 83 96
+
+---
+
