@@ -58,6 +58,27 @@
 
 </p>
 
+---
+
+### 📱 React Native: Mi especialidad
+
+<p align="center">
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="60" height="60"/>
+  </a>
+</p>
+
+Desde hace más de 300 horas de desarrollo intensivo, React Native se ha convertido en una de mis herramientas más dominadas.  
+Estoy trabajando en un proyecto móvil que combina rendimiento, diseño intuitivo y una arquitectura escalable. Cada componente, cada pantalla y cada lógica de navegación ha sido pensada, escrita y optimizada por mí.
+
+🔹 **Experto en React Native**  
+🔹 **Más de 300 horas dedicadas**  
+🔹 **Proyecto en curso con enfoque real en usabilidad y rendimiento**
+
+Este proyecto no solo representa mi habilidad técnica, sino también mi compromiso con el detalle, la experiencia del usuario y la calidad del código.  
+Pronto estará disponible públicamente, y será una muestra clara de lo que puedo construir cuando se combinan pasión y conocimiento.
+
+---
 
 ---
 
