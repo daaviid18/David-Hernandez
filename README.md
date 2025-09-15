@@ -19,6 +19,9 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+</a>
 
 <!-- Bases de datos -->
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -54,6 +57,7 @@
 </a>
 
 </p>
+
 
 ---
 
